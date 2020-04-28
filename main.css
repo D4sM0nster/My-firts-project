@@ -1,0 +1,68 @@
+.w3-top {
+    background-color: green;
+}
+.w3-black:hover {
+background-color: red!important;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.w3-container{
+    background-color:red!important;
+}
+.w3-container1 {
+    box-shadow: 4px 4px 10px black!important;
+    background-color: green!important;
+}
+.w3-button1{
+    text-decoration: none;
+    font-family: "Amatic SC", sans-serif;
+    background-size: 200px 80px;
+    box-shadow: 3px 3px 10px white!important;
+    background-color: green!important;
+}
+.w3-border-dark-grey{
+    border-color: white!important;
+}
+.w3-row{
+    color:green!important;
+    background-color: whitesmoke!important;
+}
+.w3-container2{
+    box-shadow: 4px 4px 10px black!important;
+    background-color: green!important;
+}
+.w3-container3{
+    box-shadow: 4px 4px 10px black!important;
+    background-color: green!important;
+}
+.w3-text-grey{
+    color:white!important;
+}
+.w3-tag{
+    box-shadow: 3px 3px 10px white!important;
+    background-color: red!important;
+}
+h1 {
+    text-shadow:2px 2px 3px honeydew!important;
+}
+.w3-container4{
+    background-color: rgb(5, 49, 5)!important;
+}
+.w3-center1{
+    font-size: small;
+    text-align: center;
+    background-color: green!important;
+}
+.w3-circle{
+    float:left!important;
+}
+@media only screen 
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+    iframe {
+        width:480px;
+    }
+}
+
